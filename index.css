@@ -1,0 +1,29 @@
+body {
+    text-align:center;
+}
+
+img {
+    width:100%;
+}
+p {
+    /* properties/rules go here*/
+}
+
+#Bears {
+    width: 500 px;
+    margin: 0 auto; /* this applys the zero margin all around, top bottom, left, right*/
+    /* margin: 0 0 0 0 applies top, right, bottom, left aka TRBL*/
+    padding: 10px;
+    background-color: lightblue;
+}
+
+li {
+    margin: 0 auto;
+    width: 0px;
+    text-align:center;
+}
+
+ul {
+    margin:0 auto;
+    width: 500px;
+}
